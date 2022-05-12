@@ -8,7 +8,7 @@ print(bin(num1))
 #Q2
 
 
-n = input("Enter the expression ")
+n = input("Enter the expression: ")
 print(eval(n))
 
 
